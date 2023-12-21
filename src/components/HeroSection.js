@@ -1,29 +1,33 @@
-import React from 'react';
-import '../App.css';
-import { Button } from './Button';
-import './HeroSection.css';
+import React from "react";
+import "../App.css";
+import { Button } from "./Button";
+import "./HeroSection.css";
 
 function HeroSection() {
   return (
-    <div className='hero-container'>
-      <video src='/videos/video-1.mp4' autoPlay loop muted />
-      <h1>ADVENTURE AWAITS</h1>
-      <p>What are you waiting for?</p>
-      <div className='hero-btns'>
-        <Button
-          className='btns'
-          buttonStyle='btn--outline'
-          buttonSize='btn--large'
+    <div className="hero-container">
+      <video src="/videos/video-1.mp4" autoPlay loop muted />
+      <h1>BETI</h1>
+      <p>
+        A basic website for an interview test by <br />
+        Yousuf Chohan
+      </p>
+      <div className="hero-btns">
+        {/* <Button
+          className="btns"
+          buttonStyle="btn--outline"
+          buttonSize="btn--large"
         >
           GET STARTED
-        </Button>
+        </Button> */}
         <Button
-          className='btns'
-          buttonStyle='btn--primary'
-          buttonSize='btn--large'
-          onClick={console.log('hey')}
+          className="btns"
+          buttonStyle="btn--primary"
+          buttonSize="btn--medium"
+          onClick={console.log("hey")}
         >
-          WATCH TRAILER <i className='far fa-play-circle' />
+          READ MORE
+          {/* <i className="far fa-play-circle" /> */}
         </Button>
       </div>
     </div>
