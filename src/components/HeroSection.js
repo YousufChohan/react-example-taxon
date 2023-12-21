@@ -11,7 +11,7 @@ function HeroSection() {
       <h1>BETI TEST</h1>
       <p>
         A basic website for an interview test by <br />
-        Yousuf Chohan
+        Yousuf Chohan 2.0
       </p>
       <div className="hero-btns">
         <Button
