@@ -7,19 +7,20 @@ function HeroSection() {
   return (
     <div className="hero-container">
       <video src="/videos/video-1.mp4" autoPlay loop muted />
-      <h1>BETI</h1>
+
+      <h1>BETI TEST</h1>
       <p>
         A basic website for an interview test by <br />
         Yousuf Chohan
       </p>
       <div className="hero-btns">
-        {/* <Button
+        <Button
           className="btns"
           buttonStyle="btn--outline"
-          buttonSize="btn--large"
+          buttonSize="btn--medium"
         >
           GET STARTED
-        </Button> */}
+        </Button>
         <Button
           className="btns"
           buttonStyle="btn--primary"
