@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-example-taxon/static/css/main.3455f783.css",
-    "main.js": "/react-example-taxon/static/js/main.8b6abc9c.js",
+    "main.js": "/react-example-taxon/static/js/main.f8d14914.js",
     "static/media/img-2.jpg": "/react-example-taxon/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/img-4.jpg": "/react-example-taxon/static/media/img-4.a31875b76d39f6458a6e.jpg",
     "static/media/img-3.jpg": "/react-example-taxon/static/media/img-3.6d683c0ee6824af7961a.jpg",
@@ -11,10 +11,10 @@
     "static/media/img-8.jpg": "/react-example-taxon/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "index.html": "/react-example-taxon/index.html",
     "main.3455f783.css.map": "/react-example-taxon/static/css/main.3455f783.css.map",
-    "main.8b6abc9c.js.map": "/react-example-taxon/static/js/main.8b6abc9c.js.map"
+    "main.f8d14914.js.map": "/react-example-taxon/static/js/main.f8d14914.js.map"
   },
   "entrypoints": [
     "static/css/main.3455f783.css",
-    "static/js/main.8b6abc9c.js"
+    "static/js/main.f8d14914.js"
   ]
 }
